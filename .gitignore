@@ -1,0 +1,5 @@
+cmake-build-debug-mingw-qt
+cmake-build-debug
+compression
+decompression
+test.txt
